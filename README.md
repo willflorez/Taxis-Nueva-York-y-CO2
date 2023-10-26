@@ -10,12 +10,13 @@
     <li><a href="#EQUIPO-DE-TRABAJO-DATA-OK">EQUIPO DE TRABAJO DATA OK</a></li>
     <li><a href="#INTRODUCCION">INTRODUCCION</a></li>
     <li><a href="#DESCRIPCION-DEL-PROBLEMA">DESCRIPCION DEL PROBLEMA</a></li>
-    <li><a href="#OBJETIVO-ESPECIFICO">OBJETIVO ESPECIFICO</a></li>
-    <li><a href="#OBJETIVOS-GENERALES">OBJETIVO GENERALES</a></li>
+    <li><a href="#OBJETIVO-GENERAL">OBJETIVO GENERAL</a></li>
+    <li><a href="#OBJETIVOS-ESPECIFICOS">OBJETIVOS ESPECIFICOS</a></li>
     <li><a href="#INDICADORES-DE-RENDIMIENTO-KPI'S">INDICADORES DE RENDIMIENTO KPI'S</a></li>
     <li><a href="#METODOLOGIA-DE-TRABAJO">METODOLOGIA DE TRABAJO</a></li>
     <li><a href="#STACK-TECNOLOGICO">STACK TECNOLOGICO</a></li>
     <li><a href="#DIAGRAMA-DE-GANTT">DIAGRAMA DE GANTT</a></li>
+    <li><a href="#ANALISIS-PRELIMINAR-DE-DATOS">ANALISIS PRELIMINAR DE DATOS</a></li>
   </ol>
 </details>
 
@@ -24,10 +25,10 @@
 El grupo 7 del proyecto final de Henry de la carrera de Data Science está conformado por las siguientes personas y según sus habilidades desempeñarán los roles a continuación:
 
 1. Néstor Cardona - Data Engineer
-2. Giovanny Muñoz - Data Scientist
+2. Giovanny Muñoz - Data Analyst
 3. Santiago Magris - Data Engineer
 4. Ramiro Tejedor - Data Engineer
-5. William Flórez - Data Scientist
+5. William Flórez - Data Analyst
 
 ## INTRODUCCION
 
@@ -38,11 +39,11 @@ El siguiente proyecto analiza varios conjuntos de datos que entregan informació
 El servicio de transporte particular de pasajeros ha tenido un mayor incremento desde la aparición de empresas como uber, llegando a competir con el servicio tradicional de taxis. Esto implica una mayor circulación constante de vehículos en la ciudad de Nueva York, por lo tanto mayores emisiones de CO2 e incremento de la contaminación acústica. La empresa 'TransFast' estudia la posibilidad de invertir en el sector de transporte de pasajeros en automóviles con la visión de una ciudad menos contaminada, para esto pretente participar en este sector con una flota de vehículos eléctricos con la finalidad de contribuir al cuidado del medio ambiente y además evaluar la rentabilidad de la inversión.
 La empresa 'TransFast' con la ayuda de la consultora 'dataok' desarrollará este proyecto para definir su viabilidad y suministrar las posibles oportunidades en el mercado.
 
-## OBJETIVO ESPECIFICO
+## OBJETIVO GENERAL
 
-asicsadicgdapsivuspdivugsvuhsadñivjbuañviaervkjsb.v sdhñsoud vñsduhvñsoduvñsiad ñasduvñrhqeobhfd 
+Desarrollar un modelo de gestión eficiente para la empresa TRANSFAST, centrándonos en la optimización del retorno de inversión y la reducción significativa de la contaminación atmosférica y sonora, mediante la implementación de vehículos eléctricos.
 
-## OBJETIVOS GENERALES
+## OBJETIVOS ESPECIFICOS
 
 1. Identificar los distritos más contaminados, en términos de calidad de aire y exceso de ruido.
 2. Definir la rentabilidad del negocio de transporte de pasajeros en automóviles por distritos.
@@ -90,4 +91,4 @@ A continuación las actividades a realizar en cada uno de los sprints a lo largo
 
 ![Alt text](gantt.png)
 
-# ANALISIS PRELIMINAR DE DATOS
+## ANALISIS PRELIMINAR DE DATOS
