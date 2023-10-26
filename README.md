@@ -7,7 +7,7 @@
 <details>
   <summary>TABLA DE CONTENIDO</summary>
   <ol>  
-    <li><a href="#EQUIPO-DE-TRABAJO-'DATA-OK'">EQUIPO DE TRABAJO "DATA OK"</a></li>
+    <li><a href="#EQUIPO-DE-TRABAJO-DATA-OK">EQUIPO DE TRABAJO DATA OK</a></li>
     <li><a href="#INTRODUCCION">INTRODUCCION</a></li>
     <li><a href="#pila-de-tecnologías">Pila de Tecnologías</a></li>
     <li><a href="#ETL">ETL</a></li>
@@ -17,7 +17,7 @@
   </ol>
 </details>
 
-## EQUIPO DE TRABAJO "DATA OK"
+## EQUIPO DE TRABAJO DATA OK
 
 El grupo 7 del proyecto final de Henry de la carrera de Data Science está conformado por las siguientes personas y según sus habilidades desempeñarán los roles a continuación:
 
@@ -63,7 +63,9 @@ GRAVAERVREBTBADVSIDUH SIDUFHWE ISAGDWIEF IGDWEFH{RGEHQ{R OEHFWEOFH ÑHWEFIWQEUF 
 
 ## METODOLOGIA DE TRABAJO
 
-DATA OK escoge trabajar balo la metodología de trabajo conocida como SCRUM, basada en sprints cortos usados para crear un ciclo de proyecto. Estos ciclos son ideales para el proyecto pues duran entre una y dos semanas con equipos de hasta diez personas. Los sprints se dividen en equipos pequeños y es un plan ideal para adelantar este proyecto.
+DATA OK escoge trabajar bajo la metodología de trabajo conocida como SCRUM, basada en sprints cortos usados para crear un ciclo de proyecto. Estos ciclos son ideales para el proyecto pues duran entre una y dos semanas con equipos de hasta diez personas. Este proyecto se adelanta con un equipo de 5 personas y tres semanas de plazo para la entrega completa, cada sprint es de cinco días hábiles. Los sprints se dividen en equipos pequeños y es un plan ideal para adelantar este proyecto.
+
+SCRUM MASTER: Néstor Cardona, Data Engineer.
 
 ## STACK TECNOLOGICO
 
