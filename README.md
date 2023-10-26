@@ -60,7 +60,7 @@ para un periodo de tiempo comprendido entre 2020 y 2022:
 4. Cuantificar la varianza de la tarifa de viajes.
 5. Analizar la varianza de la contaminación sonora.
 6. Analizar la varianza de la contaminación del aire.
-- Otener la relación entre los niveles de emisión de CO2 en el aire y la circulación de vehículos en circulación en la ciudad de Nueva York, durante el período de 2022 a 2023.
+- Obtener la relación entre los niveles de emisión de CO2 en el aire y la circulación de vehículos en circulación en la ciudad de Nueva York, durante el período de 2022 a 2023.
 KPI: Porcentaje de reducción de las emisiones de CO2 por unidad de circulación de vehículos.
 Este KPI mide la cantidad de emisiones de CO2 que se reducen por cada unidad de circulación de vehículos. Este KPI es útil para evaluar el impacto de las medidas que se tomen para reducir las emisiones de CO2.
 
