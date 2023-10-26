@@ -1,6 +1,8 @@
 ## Taxis-Nueva-York-y-CO2
 
+<p align="center">
 ![Alt text](CO2.jpg)
+</p>
 
 ## INDICE 
 <!-- TABLA DE CONTENIDO -->
