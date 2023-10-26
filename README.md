@@ -56,19 +56,7 @@ Desarrollar un modelo de gestión eficiente para la empresa TRANSFAST, centránd
 KPI: Porcentaje de reducción o ampliación de las emisiones de gases nocivos por unidad de circulación de vehículos.
 Este KPI mide la cantidad de emisiones de gases nocivos que se reducen por cada unidad de circulación de vehículos. Este KPI es útil para evaluar el impacto de las medidas que se tomen para reducir las emisiones de gases nocivos.
 
-<<<<<<< HEAD
 % reducción = (Emisiones iniciales - Emisiones finales) / Emisiones iniciales * 100
-=======
-1. Medir el Co2 por kilómetro cuadrado.
-2. Medir la emisión de Co2 en toda la ciudad en los últimos.
-3. Conocer el comportamiento de la rentabilidad distrito a distrito.
-4. Cuantificar la varianza de la tarifa de viajes.
-5. Analizar la varianza de la contaminación sonora.
-6. Analizar la varianza de la contaminación del aire.
-- Obtener la relación entre los niveles de emisión de CO2 en el aire y la circulación de vehículos en circulación en la ciudad de Nueva York, durante el período de 2022 a 2023.
-KPI: Porcentaje de reducción de las emisiones de CO2 por unidad de circulación de vehículos.
-Este KPI mide la cantidad de emisiones de CO2 que se reducen por cada unidad de circulación de vehículos. Este KPI es útil para evaluar el impacto de las medidas que se tomen para reducir las emisiones de CO2.
->>>>>>> 4bf36d3835260a3fd295aae09f3fc8bebca4369f
 
 2. Determinar la participación del ruido en decibeles de los vehículos eléctricos en circulación en la ciudad de Nueva York, durante el período de 2022 a 2023, respecto a los decibeles permitidos.
 KPI: Porcentaje de ruido de los vehículos eléctricos en circulación respecto al ruido total.
