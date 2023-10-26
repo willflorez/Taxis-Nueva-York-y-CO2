@@ -6,11 +6,26 @@
 
 El grupo 7 del proyecto final de Henry de la carrera de Data Science está conformado por las siguientes personas y según sus habilidades desempeñarán los roles a continuación:
 
-1. Nestor Cardona - Data Engineer
+1. Néstor Cardona - Data Engineer
 2. Giovanny Muñoz - Data Scientist
 3. Santiago Magris - Data Engineer
 4. Ramiro Tejedor - Data Engineer
 5. William Flórez - Data Scientist
+
+## INDICE 
+<!-- TABLA DE CONTENIDO -->
+<details>
+  <summary>Tabla de contenido</summary>
+  <ol>  
+    <li><a href="#Introducción">Introducción</a></li>
+    <li><a href="#Objetivo">Objetivo</a></li>
+    <li><a href="#pila-de-tecnologías">Pila de Tecnologías</a></li>
+    <li><a href="#ETL">ETL</a></li>
+    <li><a href="#EDA">EDA</a></li>
+    <li><a href="#modelo-ml">Modelo ML</a></li>
+    <li><a href="#Video">Video</a></li>
+  </ol>
+</details>
 
 # INTRODUCCION
 
@@ -33,8 +48,28 @@ Crear un modelo de machine learning que entregue al usuario, según un punto de 
 
 # INDICADORES DE RENDIMIENTO KPI'S
 
+para un periodo de tiempo comprendido entre 2020 y 2022:
+
+1. Medir el Co2 por kilómetro cuadrado.
+2. Medir la emisión de Co2 en toda la ciudad en los últimos.
+3. Conocer el comportamiento de la rentabilidad distrito a distrito.
+4. Cuantificar la varianza de la tarifa de viajes.
+5. Analizar la varianza de la contaminación sonora.
+6. Analizar la varianza de la contaminación del aire.
+
 # STACK TECNOLOGICO
 
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 
