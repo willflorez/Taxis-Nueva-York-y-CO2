@@ -10,10 +10,12 @@
     <li><a href="#EQUIPO-DE-TRABAJO-DATA-OK">EQUIPO DE TRABAJO DATA OK</a></li>
     <li><a href="#INTRODUCCION">INTRODUCCION</a></li>
     <li><a href="#DESCRIPCION-DEL-PROBLEMA">DESCRIPCION DEL PROBLEMA</a></li>
-    <li><a href="#ETL">ETL</a></li>
-    <li><a href="#EDA">EDA</a></li>
-    <li><a href="#modelo-ml">Modelo ML</a></li>
-    <li><a href="#Video">Video</a></li>
+    <li><a href="#OBJETIVO-ESPECIFICO">OBJETIVO ESPECIFICO</a></li>
+    <li><a href="#OBJETIVOS-GENERALES">OBJETIVO GENERALES</a></li>
+    <li><a href="#INDICADORES-DE-RENDIMIENTO-KPI'S">INDICADORES DE RENDIMIENTO KPI'S</a></li>
+    <li><a href="#METODOLOGIA-DE-TRABAJO">METODOLOGIA DE TRABAJO</a></li>
+    <li><a href="#STACK-TECNOLOGICO">STACK TECNOLOGICO</a></li>
+    <li><a href="#DIAGRAMA-DE-GANTT">DIAGRAMA DE GANTT</a></li>
   </ol>
 </details>
 
@@ -38,13 +40,14 @@ La empresa 'TransFast' con la ayuda de la consultora 'dataok' desarrollará este
 
 ## OBJETIVO ESPECIFICO
 
-Crear un modelo de machine learning que entregue al usuario, según un punto de partida y de destino y una hora de viaje, la predicción del costo del servicio.
+asicsadicgdapsivuspdivugsvuhsadñivjbuañviaervkjsb.v sdhñsoud vñsduhvñsoduvñsiad ñasduvñrhqeobhfd 
 
 ## OBJETIVOS GENERALES
 
 1. Identificar los distritos más contaminados, en términos de calidad de aire y exceso de ruido.
 2. Definir la rentabilidad del negocio de transporte de pasajeros en automóviles por distritos.
 3. Entregar una propuesta de inversión a TransFast que ayude a tomar la decisión de participar o no en el mercado.
+4. Crear un modelo de machine learning que entregue al usuario, según un punto de partida y de destino y una hora de viaje, la predicción del costo del servicio.
 
 ## INDICADORES DE RENDIMIENTO KPI'S
 
@@ -81,12 +84,8 @@ SCRUM MASTER: Néstor Cardona, Data Engineer.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-
-
-
-
-
-
 ## DIAGRAMA DE GANTT
+
+A continuación las actividades a realizar en cada uno de los sprints a lo largo de las tres semanas de duración del proyecto, representados en un diagrama de Gantt.
 
 ![Alt text](gantt.png)
