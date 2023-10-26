@@ -89,3 +89,5 @@ SCRUM MASTER: Néstor Cardona, Data Engineer.
 A continuación las actividades a realizar en cada uno de los sprints a lo largo de las tres semanas de duración del proyecto, representados en un diagrama de Gantt.
 
 ![Alt text](gantt.png)
+
+# ANALISIS PRELIMINAR DE DATOS
