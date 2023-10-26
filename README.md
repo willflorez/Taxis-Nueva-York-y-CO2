@@ -60,6 +60,31 @@ para un periodo de tiempo comprendido entre 2020 y 2022:
 4. Cuantificar la varianza de la tarifa de viajes.
 5. Analizar la varianza de la contaminación sonora.
 6. Analizar la varianza de la contaminación del aire.
+- Otener la relación entre los niveles de emisión de CO2 en el aire y la circulación de vehículos en circulación en la ciudad de Nueva York, durante el período de 2022 a 2023.
+KPI: Porcentaje de reducción de las emisiones de CO2 por unidad de circulación de vehículos.
+Este KPI mide la cantidad de emisiones de CO2 que se reducen por cada unidad de circulación de vehículos. Este KPI es útil para evaluar el impacto de las medidas que se tomen para reducir las emisiones de CO2.
+
+% reducción = (Emisiones de CO2 iniciales - Emisiones de CO2 finales) / Emisiones de CO2 iniciales * 100
+
+- Determinar la participación del ruido en decibeles de los vehículos eléctricos en circulación en la ciudad de Nueva York, durante el período de 2022 a 2023, respecto a los decibeles permitidos.
+KPI: Porcentaje de ruido de los vehículos eléctricos en circulación respecto al ruido total.
+
+Este KPI mide la cantidad de ruido que producen los vehículos eléctricos en circulación, en comparación con el ruido total producido por todos los vehículos en circulación. Este KPI es útil para evaluar el impacto de los vehículos eléctricos en la contaminación acústica.
+
+% ruido = (Ruido de los vehículos eléctricos / Ruido total) * 100
+
+- Identificar los vehículos eléctricos que tienen un coste total por kilómetro inferior a 0,5 euros.
+KPI: Coste total por kilómetro
+
+Este KPI se calcula dividiendo el coste total del vehículo por el número de kilómetros que puede recorrer. El coste total del vehículo incluye el coste de adquisición, el coste de mantenimiento y el coste de carga.
+
+Coste total por kilómetro = (Coste de adquisición + Coste de mantenimiento + Coste de carga) / Número de kilómetros
+
+- Identificar los vehículos eléctricos que tienen un ROI superior al 5 %.
+KPI: Tasa de retorno de la inversión (ROI)
+Este KPI se calcula dividiendo el ahorro en costes por el coste total del vehículo. El ahorro en costes se calcula comparando los costes de un vehículo eléctrico con los costes de un vehículo de combustión interna.
+
+ROI = (Ahorro en costes) / Coste total del vehículo
 
 ## ALCANCE DEL PROYECTO
 
