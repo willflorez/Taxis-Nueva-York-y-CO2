@@ -1,0 +1,104 @@
+Brand,Model,Range,Efficiency,FastCharge,BodyStyle,PriceEuro
+SEAT ,Mii Electric ,195 km,166 Wh/km,170 km/h,Hatchback,20129
+Smart ,EQ fortwo coupe,100 km,167 Wh/km,-,Hatchback,21387
+Volkswagen ,e-Up! ,195 km,166 Wh/km,170 km/h,Hatchback,21421
+Smart ,EQ forfour ,95 km,176 Wh/km,-,Hatchback,22030
+Skoda ,CITIGOe iV ,195 km,166 Wh/km,170 km/h,Hatchback,24534
+Smart ,EQ fortwo cabrio,95 km,176 Wh/km,-,Cabrio,24565
+Renault ,Twingo ZE,130 km,164 Wh/km,-,Hatchback,24790
+Sono ,Sion ,225 km,156 Wh/km,270 km/h,Hatchback,25500
+Opel ,Corsa-e ,275 km,164 Wh/km,420 km/h,Hatchback,29146
+Renault ,Zoe ZE40 R110,255 km,161 Wh/km,230 km/h,Hatchback,29234
+Nissan ,Leaf ,220 km,164 Wh/km,230 km/h,Hatchback,29234
+Peugeot ,e-208 ,275 km,164 Wh/km,420 km/h,Hatchback,29682
+MG ,ZS EV,220 km,193 Wh/km,260 km/h,SUV,30000
+Volkswagen ,ID.3 Pure,270 km,167 Wh/km,250 km/h,Hatchback,30000
+Renault ,Zoe ZE50 R110,315 km,165 Wh/km,230 km/h,Hatchback,31184
+Mini ,Cooper SE ,185 km,156 Wh/km,260 km/h,Hatchback,31681
+Volkswagen ,e-Golf ,190 km,168 Wh/km,220 km/h,Hatchback,31900
+Mazda ,MX-30 ,180 km,178 Wh/km,240 km/h,SUV,32646
+Honda ,e ,170 km,168 Wh/km,190 km/h,Hatchback,32997
+Volkswagen ,ID.3 Pro,350 km,166 Wh/km,490 km/h,Hatchback,33000
+Renault ,Zoe ZE50 R135,310 km,168 Wh/km,230 km/h,Hatchback,33133
+Kia ,e-Soul 39 kWh,230 km,170 Wh/km,220 km/h,SUV,33133
+Nissan ,e-NV200 Evalia ,190 km,200 Wh/km,190 km/h,SPV,33246
+Hyundai ,Kona Electric 39 kWh,255 km,154 Wh/km,210 km/h,SUV,33971
+Peugeot ,e-2008 SUV ,250 km,180 Wh/km,380 km/h,SUV,34361
+Kia ,e-Niro 39 kWh,235 km,167 Wh/km,230 km/h,SUV,34400
+Hyundai ,IONIQ Electric,250 km,153 Wh/km,210 km/h,Liftback,34459
+Fiat ,500e Hatchback,250 km,168 Wh/km,330 km/h,Hatchback,34900
+Skoda ,Enyaq iV 50,290 km,179 Wh/km,230 km/h,SUV,35000
+Opel ,Mokka-e ,255 km,176 Wh/km,390 km/h,SUV,35000
+Volkswagen ,ID.3 Pro Performance,340 km,171 Wh/km,470 km/h,Hatchback,35575
+Honda ,e Advance,170 km,168 Wh/km,190 km/h,Hatchback,35921
+Aiways ,U5 ,335 km,188 Wh/km,350 km/h,SUV,36057
+Kia ,e-Soul 64 kWh,365 km,175 Wh/km,340 km/h,SUV,36837
+Kia ,e-Soul 64 kWh,365 km,175 Wh/km,320 km/h,SUV,36837
+Nissan ,Leaf e+,325 km,172 Wh/km,390 km/h,Hatchback,37237
+DS ,3 Crossback E-Tense,250 km,180 Wh/km,380 km/h,SUV,37422
+Skoda ,Enyaq iV 60,320 km,181 Wh/km,440 km/h,SUV,37500
+Fiat ,500e Convertible,250 km,168 Wh/km,330 km/h,Cabrio,37900
+Renault ,Kangoo Maxi ZE 33,160 km,194 Wh/km,-,SPV,38000
+BMW ,i3 120 Ah,235 km,161 Wh/km,270 km/h,Hatchback,38017
+Kia ,e-Niro 64 kWh,370 km,173 Wh/km,350 km/h,SUV,38105
+Volkswagen ,ID.3 1st,340 km,171 Wh/km,470 km/h,Hatchback,38987
+Skoda ,Enyaq iV 80,420 km,183 Wh/km,560 km/h,SUV,40000
+Citroen ,e-C4 ,250 km,180 Wh/km,380 km/h,SUV,40000
+Hyundai ,Kona Electric 64 kWh,400 km,160 Wh/km,380 km/h,SUV,40795
+Volkswagen ,ID.3 Pro S,440 km,175 Wh/km,590 km/h,Hatchback,40936
+BMW ,i3s 120 Ah,230 km,165 Wh/km,260 km/h,Hatchback,41526
+Opel ,Ampera-e ,335 km,173 Wh/km,210 km/h,MPV,41906
+Volkswagen ,ID.4 ,420 km,183 Wh/km,560 km/h,SUV,45000
+Nissan ,Ariya 63kWh,330 km,191 Wh/km,440 km/h,Hatchback,45000
+Mercedes ,EQA ,350 km,171 Wh/km,440 km/h,SUV,45000
+CUPRA ,el-Born ,425 km,181 Wh/km,570 km/h,Hatchback,45000
+Skoda ,Enyaq iV 80X,400 km,193 Wh/km,540 km/h,SUV,45000
+Tesla ,Cybertruck Single Motor,390 km,256 Wh/km,740 km/h,Pickup,45000
+Tesla ,Model 3 Standard Range Plus,310 km,153 Wh/km,650 km/h,Sedan,46380
+Ford ,Mustang Mach-E SR RWD,360 km,194 Wh/km,380 km/h,SUV,46900
+Skoda ,Enyaq iV vRS,400 km,193 Wh/km,540 km/h,SUV,47500
+Nissan ,Ariya 87kWh,440 km,198 Wh/km,520 km/h,Hatchback,50000
+Lexus ,UX 300e,270 km,193 Wh/km,190 km/h,SUV,50000
+Nissan ,Ariya e-4ORCE 63kWh,325 km,194 Wh/km,440 km/h,Hatchback,50000
+Byton ,M-Byte 72 kWh 2WD,325 km,222 Wh/km,420 km/h,SUV,53500
+Ford ,Mustang Mach-E SR AWD,340 km,206 Wh/km,360 km/h,SUV,54000
+Ford ,Mustang Mach-E ER RWD,450 km,200 Wh/km,430 km/h,SUV,54475
+Tesla ,Cybertruck Dual Motor,460 km,261 Wh/km,710 km/h,Pickup,55000
+Audi ,Q4 e-tron ,400 km,193 Wh/km,540 km/h,SUV,55000
+Tesla ,Model 3 Long Range Dual Motor,450 km,161 Wh/km,940 km/h,Sedan,55480
+Polestar ,2,400 km,181 Wh/km,620 km/h,Liftback,56440
+Audi ,Q4 Sportback e-tron ,410 km,188 Wh/km,550 km/h,SUV,57500
+Nissan ,Ariya e-4ORCE 87kWh,420 km,207 Wh/km,500 km/h,Hatchback,57500
+Tesla ,Model Y Long Range Dual Motor,425 km,171 Wh/km,930 km/h,SUV,58620
+Volvo ,XC40 P8 AWD Recharge,375 km,200 Wh/km,470 km/h,SUV,60437
+Tesla ,Model 3 Long Range Performance,435 km,167 Wh/km,910 km/h,Sedan,61480
+Byton ,M-Byte 95 kWh 2WD,400 km,238 Wh/km,480 km/h,SUV,62000
+Ford ,Mustang Mach-E ER AWD,430 km,209 Wh/km,410 km/h,SUV,62900
+Byton ,M-Byte 95 kWh 4WD,390 km,244 Wh/km,460 km/h,SUV,64000
+Nissan ,Ariya e-4ORCE 87kWh Performance,375 km,232 Wh/km,450 km/h,Hatchback,65000
+BMW ,i4 ,450 km,178 Wh/km,650 km/h,Sedan,65000
+Tesla ,Model Y Long Range Performance,410 km,177 Wh/km,900 km/h,SUV,65620
+Audi ,e-tron 50 quattro,280 km,231 Wh/km,450 km/h,SUV,67358
+BMW ,iX3 ,360 km,206 Wh/km,560 km/h,SUV,68040
+Mercedes ,EQC 400 4MATIC,370 km,216 Wh/km,440 km/h,SUV,69484
+Audi ,e-tron Sportback 50 quattro,295 km,219 Wh/km,470 km/h,SUV,69551
+Mercedes ,EQV 300 Long,330 km,273 Wh/km,290 km/h,SPV,70631
+Tesla ,Cybertruck Tri Motor,750 km,267 Wh/km,710 km/h,Pickup,75000
+Jaguar ,I-Pace ,365 km,232 Wh/km,340 km/h,SUV,75351
+Audi ,e-tron 55 quattro,365 km,237 Wh/km,590 km/h,SUV,79445
+Tesla ,Model S Long Range,515 km,184 Wh/km,560 km/h,Liftback,79990
+Audi ,e-tron Sportback 55 quattro,380 km,228 Wh/km,610 km/h,SUV,81639
+Tesla ,Model X Long Range,450 km,211 Wh/km,490 km/h,SUV,85990
+Audi ,e-tron S 55 quattro,320 km,270 Wh/km,510 km/h,SUV,93800
+Audi ,e-tron S Sportback 55 quattro,335 km,258 Wh/km,540 km/h,SUV,96050
+Tesla ,Model S Performance,505 km,188 Wh/km,550 km/h,Liftback,96990
+Porsche ,Taycan 4S,365 km,195 Wh/km,730 km/h,Sedan,102945
+Tesla ,Model X Performance,440 km,216 Wh/km,480 km/h,SUV,102990
+Lucid ,Air ,610 km,180 Wh/km,620 km/h,Sedan,105000
+Porsche ,Taycan 4S Plus,425 km,197 Wh/km,890 km/h,Sedan,109302
+Audi ,e-tron GT ,425 km,197 Wh/km,850 km/h,Sedan,125000
+Porsche ,Taycan Turbo,390 km,215 Wh/km,810 km/h,Sedan,148301
+Lightyear ,One ,575 km,104 Wh/km,540 km/h,Liftback,149000
+Porsche ,Taycan Cross Turismo ,385 km,217 Wh/km,770 km/h,Station,150000
+Porsche ,Taycan Turbo S,375 km,223 Wh/km,780 km/h,Sedan,180781
+Tesla ,Roadster ,970 km,206 Wh/km,920 km/h,Cabrio,215000
