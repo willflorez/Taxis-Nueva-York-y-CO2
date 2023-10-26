@@ -9,7 +9,7 @@
   <ol>  
     <li><a href="#EQUIPO-DE-TRABAJO-DATA-OK">EQUIPO DE TRABAJO DATA OK</a></li>
     <li><a href="#INTRODUCCION">INTRODUCCION</a></li>
-    <li><a href="#pila-de-tecnologías">Pila de Tecnologías</a></li>
+    <li><a href="#DESCRIPCION-DEL-PROBLEMA">DESCRIPCION DEL PROBLEMA</a></li>
     <li><a href="#ETL">ETL</a></li>
     <li><a href="#EDA">EDA</a></li>
     <li><a href="#modelo-ml">Modelo ML</a></li>
