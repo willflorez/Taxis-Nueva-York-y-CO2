@@ -2,9 +2,9 @@
 
 ![Alt text](CO2.jpg)
 
-# EQUIPO DE TRABAJO
+# EQUIPO DE TRABAJO "DATA OK"
 
-El grupo 7 del proyecto final de Henry de la carrera de Data Science esta conformado por las siguientes personas y según sus habilidades desempeñaran los roles a continuación:
+El grupo 7 del proyecto final de Henry de la carrera de Data Science está conformado por las siguientes personas y según sus habilidades desempeñarán los roles a continuación:
 
 Nestor Cardona - Data Engineer
 Giovanny Muñoz - Data Scientist
