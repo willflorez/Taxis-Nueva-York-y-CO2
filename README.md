@@ -6,11 +6,11 @@
 
 El grupo 7 del proyecto final de Henry de la carrera de Data Science está conformado por las siguientes personas y según sus habilidades desempeñarán los roles a continuación:
 
-Nestor Cardona - Data Engineer
-Giovanny Muñoz - Data Scientist
-Santiago Magris - Data Engineer
-Ramiro Tejedor - Data Engineer
-William Flórez - Data Scientist
+1. Nestor Cardona - Data Engineer
+2. Giovanny Muñoz - Data Scientist
+3. Santiago Magris - Data Engineer
+4. Ramiro Tejedor - Data Engineer
+5. William Flórez - Data Scientist
 
 # INTRODUCCION
 
