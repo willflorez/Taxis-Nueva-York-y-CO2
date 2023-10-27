@@ -56,13 +56,13 @@ Desarrollar un modelo de gestión eficiente para la empresa TRANSFAST, centránd
 ## INDICADORES DE RENDIMIENTO KPI'S
 
 1. Obtener la relación entre los niveles de emisión de gases nocivos en el aire y la circulación de vehículos en la ciudad de Nueva York, durante el período de 2022 a 2023.
-KPI: Porcentaje de reducción o ampliación de las emisiones de gases nocivos por unidad de circulación de vehículos.
+KPI: Porcentaje de reducción DEL 5% de las emisiones de gases nocivos por DISTRITO CON RESPECTO AL AÑO ANTERIOR.
 Este KPI mide la cantidad de emisiones de gases nocivos que se reducen por cada unidad de circulación de vehículos. Este KPI es útil para evaluar el impacto de las medidas que se tomen para reducir las emisiones de gases nocivos.
 
 % reducción = (Emisiones iniciales - Emisiones finales) / Emisiones iniciales * 100
 
 2. Determinar la participación del ruido en decibeles de los vehículos eléctricos en circulación en la ciudad de Nueva York, durante el período de 2022 a 2023, respecto a los decibeles permitidos.
-KPI: Porcentaje de ruido de los vehículos eléctricos en circulación respecto al ruido total.
+KPI: Reducir un 5% el ruido de motores en la ciudad de Nueva York.
 
 Este KPI mide la cantidad de ruido que producen los vehículos eléctricos en circulación, en comparación con el ruido total producido por todos los vehículos en circulación. Este KPI es útil para evaluar el impacto de los vehículos eléctricos en la contaminación acústica.
 
