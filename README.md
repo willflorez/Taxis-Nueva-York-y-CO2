@@ -131,7 +131,7 @@ A continuación las actividades a realizar en cada uno de los sprints a lo largo
 
 ## ANALISIS PRELIMINAR DE DATOS
 
-Dataset ElectricCarData_Norm
+1. Dataset ElectricCarData_Norm
 
 1. Verificar los valores NaN de las columnas en el archivo y se valida que no tiene valores NaN y el mapa de calor corrobora dicha información, pues como resultado es un mapa vacio.
 
@@ -158,18 +158,22 @@ Brand y Model (Marca y Modelo): La reputación de la marca y el modelo del vehí
 Por lo tanto se eliminan las siguientes columnas:
 Accel (Aceleración) , TopSpeed (Velocidad Máxima), RapidCharge (Carga Rápida), PowerTrain (Tren de Potencia), PlugType (Tipo de Conector), Segment (Segmento) y Seats (Número de Asientos).
 
-Dataset Alternative Fuel Vehicles
+2. Dataset Alternative Fuel Vehicles
 
 Del dataset Alternative Fuel Vehicles hicimos una limpieza para quedarnos solo con los automoviles electricos, ya que a donde va enfocado nuestro proyecto, eliminando asi las filas con datos de automoviles con otro tipo de combustible. Tambien eliminamos las columnas que contenian mas del 80% de sus datos nulos, como tambien columnas que hacian referencia a los autos con otro tipo de combustible alternativo.
 
-Dataset Contaminación Sonora
+3. Dataset Contaminación Sonora
 
 Del dataset Contaminación Sonora hicimos una limpieza de datos profundo, pasando de 78 columnas a 12. Esto ya que el dataset contenia informacion de todo tipo de sonidos, desde sonidos de motores hasta ladridos de perros. Al terminar la limpieza dejamos solo las columnas que contenian datos de sonidos de motores.
 
-Dataset Taxi+
+4. Dataset Taxi+
 
 El dataset taxi+_zone_lookup.csv  se cruza con un dataset extraído de  https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page llamado taxis_trips. El mismo contiene la informacion de todos los viajes en taxi del mes de junio del 2023, como pueden ser: Lugar de salida, lugar de llegada, costo del viaje, etc. Utilizamos las columnas PULocationId y DuLocationId para hacer un merge mediante la columna LocationId del dataset taxi+_zone_lookup.csv. Esto se pudo hacer ya que ambos datasets provienen de la misma pagina. Este cruce de datasets se hizo con el objetivo de especificar el distrito y la zona en donde se tomaron y dejaron a los pasajeros en sus respectivos viajes en taxi.
 
-Dataset AirQuality
+5. Dataset AirQuality
 
 Este conjunto de datos aporta información acerca de la cantidad de emisiones de gases nocivos en la ciudad de Nueva York en los años comprendidos entre 2013 y 2021, cuenta con 12 columnas y 16122 filas, las columnas 'Message' y ´Time Period' se desestiman no aportan información para el análisis, la primera es una columna totalmente vacía y la segunda contiene datos redundantes de fechas, pues ya existe una columna con esa información. Este conjunto de datos es clave para desarrollar el KPI propuesto de calidad del aire, contiene columnas donde resalta la concentración en partes por billon y el lugar geográfico de la medición.
+
+6. Datasets Light Duty Vehicles y Vehicle Fuel Economy Data
+
+Luego de analizar la composición de los siguientes datasets y teniendo en cuenta los objetivos y alcance del la actual propuesta se ha decido que no se consideraran dichos datasets debido a que no aportan información relevante que contribuya a la obtención de conclusiones precisas y alineadas con el enfoque del proyecto.
