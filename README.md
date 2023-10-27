@@ -121,7 +121,7 @@ SCRUM MASTER: Néstor Cardona, Data Engineer.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## DIAGRAMA DE GANTT
 
@@ -130,3 +130,46 @@ A continuación las actividades a realizar en cada uno de los sprints a lo largo
 ![Alt text](gantt.png)
 
 ## ANALISIS PRELIMINAR DE DATOS
+
+Dataset ElectricCarData_Norm
+
+1. Verificar los valores NaN de las columnas en el archivo y se valida que no tiene valores NaN y el mapa de calor corrobora dicha información, pues como resultado es un mapa vacio.
+
+2. Detectar y visualizar outliers en la columna 'precio'
+Se visualiza una información sin outliers, pues los datos fuera de rango son perfectamente normales pues son vehiculos de alta gama
+Lo cual es confirmado por el diagrama de caja
+
+3. Verificar valores duplicados en el archivo
+Se visualiza un archivo sin duplicados lo cual con el Histograma para contar filas duplicadas lo confirma, pues no se tienen filas duplicadas.
+
+
+La información de Carros eléctricos está bastante depurada, sin outliers, ni NaN, ni campos vacíos, sin embargo hay información que no es necesaria para el alcance del proyecto, la siguiente es la que se considera relevante:
+
+Efficiency (Eficiencia): La eficiencia es crucial para maximizar el rango de conducción por carga, lo que puede ayudar a reducir costos operativos y aumentar la productividad del taxi.
+
+Range (Autonomía): Una mayor autonomía permite que el taxi eléctrico pueda realizar más viajes antes de necesitar recargarse, lo que es esencial en una ciudad como Nueva York, donde los taxis pueden estar en servicio continuamente.
+
+FastCharge (Carga Rápida): La capacidad de carga rápida es importante para minimizar el tiempo de inactividad del taxi durante la recarga, lo que es crítico para mantener la operación eficiente.
+
+Price (Precio): El precio del vehículo eléctrico es una consideración importante para los propietarios de flotas de taxis, ya que afecta directamente a la inversión inicial.
+
+Brand y Model (Marca y Modelo): La reputación de la marca y el modelo del vehículo puede influir en la percepción de los clientes y la confiabilidad del vehículo y adicionalmente en el mantenimiento y respaldo en repuestos.
+
+Por lo tanto se eliminan las siguientes columnas:
+Accel (Aceleración) , TopSpeed (Velocidad Máxima), RapidCharge (Carga Rápida), PowerTrain (Tren de Potencia), PlugType (Tipo de Conector), Segment (Segmento) y Seats (Número de Asientos).
+
+Dataset Alternative Fuel Vehicles
+
+Del dataset Alternative Fuel Vehicles hicimos una limpieza para quedarnos solo con los automoviles electricos, ya que a donde va enfocado nuestro proyecto, eliminando asi las filas con datos de automoviles con otro tipo de combustible. Tambien eliminamos las columnas que contenian mas del 80% de sus datos nulos, como tambien columnas que hacian referencia a los autos con otro tipo de combustible alternativo.
+
+Dataset Contaminación Sonora
+
+Del dataset Contaminación Sonora hicimos una limpieza de datos profundo, pasando de 78 columnas a 12. Esto ya que el dataset contenia informacion de todo tipo de sonidos, desde sonidos de motores hasta ladridos de perros. Al terminar la limpieza dejamos solo las columnas que contenian datos de sonidos de motores.
+
+Dataset Taxi+
+
+El dataset taxi+_zone_lookup.csv  se cruza con un dataset extraído de  https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page llamado taxis_trips. El mismo contiene la informacion de todos los viajes en taxi del mes de junio del 2023, como pueden ser: Lugar de salida, lugar de llegada, costo del viaje, etc. Utilizamos las columnas PULocationId y DuLocationId para hacer un merge mediante la columna LocationId del dataset taxi+_zone_lookup.csv. Esto se pudo hacer ya que ambos datasets provienen de la misma pagina. Este cruce de datasets se hizo con el objetivo de especificar el distrito y la zona en donde se tomaron y dejaron a los pasajeros en sus respectivos viajes en taxi.
+
+Dataset AirQuality
+
+Este conjunto de datos aporta información acerca de la cantidad de emisiones de gases nocivos en la ciudad de Nueva York en los años comprendidos entre 2013 y 2021, cuenta con 12 columnas y 16122 filas, las columnas 'Message' y ´Time Period' se desestiman no aportan información para el análisis, la primera es una columna totalmente vacía y la segunda contiene datos redundantes de fechas, pues ya existe una columna con esa información. Este conjunto de datos es clave para desarrollar el KPI propuesto de calidad del aire, contiene columnas donde resalta la concentración en partes por billon y el lugar geográfico de la medición.
