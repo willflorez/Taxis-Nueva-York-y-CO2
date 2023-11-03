@@ -53,6 +53,8 @@ Hace aparición la herramienta de BigQuery útil como Data Warehouse y que entre
 
 ## VIDEO
 
+Así Funciona el ETL Autómatico [<a href=https://drive.google.com/file/d/1S6oKnf2XNTAFfRlHTXwKHoiU_kTJhCXI/view?usp=sharing" target="_blank">Link al Video</a>]
+
 ## DICCIONARIO DE DATOS
 
 Diccionario de Datos [<a href="https://docs.google.com/spreadsheets/d/1gadlFJPPdkcMyuvO2AZLorkqomhDN8W7/edit#gid=1163311947" target="_blank">Link al Diccionario</a>]
