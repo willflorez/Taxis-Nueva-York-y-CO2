@@ -43,13 +43,13 @@ Se cargan los datos sin ningún tipo de transformación en Google Cloud Storage 
 
 El objetivo de esta etapa fundamental es que se reconozcan los cambios que ocurren en el Data Lake y que se puedan procesar esos cambios para luego almacenarlos en Data Warehouse.
 
-![Alt text](functions.png)
+![Alt text](functionsausar.jpeg)
 
 ## DATA WAREHOUSE
 
 Hace aparición la herramienta de BigQuery útil como Data Warehouse y que entre otras cosas permite manipular los conjuntos de datos procesados después de ETL.
 
-![Alt text](datawarehouse.png)
+![Alt text](bigquery.jpeg)
 
 ## VIDEO
 
