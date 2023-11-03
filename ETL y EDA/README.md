@@ -11,14 +11,10 @@
   <ol>  
     <li><a href="#PIPELINE">PIPELINE</a></li>
     <li><a href="#STACK-TECNOLOGICO">STACK TECNOLOGICON</a></li>
-    <li><a href="#DESCRIPCION-DEL-PROBLEMA">DESCRIPCION DEL PROBLEMA</a></li>
-    <li><a href="#OBJETIVO-GENERAL">OBJETIVO GENERAL</a></li>
-    <li><a href="#OBJETIVOS-ESPECIFICOS">OBJETIVOS ESPECIFICOS</a></li>
-    <li><a href="#INDICADORES-DE-RENDIMIENTO-KPI'S">INDICADORES DE RENDIMIENTO KPI'S</a></li>
-    <li><a href="#METODOLOGIA-DE-TRABAJO">METODOLOGIA DE TRABAJO</a></li>
-    <li><a href="#STACK-TECNOLOGICO">STACK TECNOLOGICO</a></li>
-    <li><a href="#DIAGRAMA-DE-GANTT">DIAGRAMA DE GANTT</a></li>
-    <li><a href="#ANALISIS-PRELIMINAR-DE-DATOS">ANALISIS PRELIMINAR DE DATOS</a></li>
+    <li><a href="#DATA-LAKE">DATA LAKE</a></li>
+    <li><a href="#CLOUD-FUNCTIONS">CLOUD FUNCTIONS</a></li>
+    <li><a href="#DATA-WAREHOUSE">DATA WAREHOUSE</a></li>
+    <li><a href="#VIDEO">VIDEO</a></li>
   </ol>
 </details>
 
@@ -36,3 +32,48 @@ Flujo de trabajo para la transformación de los conjuntos de datos en Google Clo
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+## DATA LAKE
+
+Se cargan los datos sin ningún tipo de transformación en Google Cloud Storage de manera manual, como el paso inicial para la creación del Data Lake del proyecto.
+
+![Alt text](storage.png)
+
+## CLOUD FUNCTIONS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Alt text](functions.png)
+
+## DATA WAREHOUSE
+
