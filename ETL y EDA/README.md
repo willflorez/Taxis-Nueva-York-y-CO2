@@ -15,6 +15,7 @@
     <li><a href="#CLOUD-FUNCTIONS">CLOUD FUNCTIONS</a></li>
     <li><a href="#DATA-WAREHOUSE">DATA WAREHOUSE</a></li>
     <li><a href="#VIDEO">VIDEO</a></li>
+    <li><a href="#DICCIONARIO-DE-DATOS">DICCIONARIO DE DATOS</a></li>
   </ol>
 </details>
 
