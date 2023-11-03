@@ -55,4 +55,4 @@ Hace aparición la herramienta de BigQuery útil como Data Warehouse y que entre
 
 ## DICCIONARIO DE DATOS
 
-# Diccionario de Datos [<a href="https://docs.google.com/spreadsheets/d/1gadlFJPPdkcMyuvO2AZLorkqomhDN8W7/edit#gid=1163311947" target="_blank">Link al Diccionario</a>]
+Diccionario de Datos [<a href="https://docs.google.com/spreadsheets/d/1gadlFJPPdkcMyuvO2AZLorkqomhDN8W7/edit#gid=1163311947" target="_blank">Link al Diccionario</a>]
