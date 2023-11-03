@@ -37,7 +37,7 @@ Flujo de trabajo para la transformación de los conjuntos de datos en Google Clo
 
 Se cargan los datos sin ningún tipo de transformación en Google Cloud Storage de manera manual, como el paso inicial para la creación del Data Lake del proyecto.
 
-![Alt text](storage.png)
+![Alt text](originales2.jpeg)
 
 ## CLOUD FUNCTIONS
 
