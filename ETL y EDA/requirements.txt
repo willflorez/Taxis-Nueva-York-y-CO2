@@ -1,0 +1,7 @@
+functions-framework
+gcsfs
+fsspec
+pandas
+pandas-gbq
+pyarrow
+db-dtypes
