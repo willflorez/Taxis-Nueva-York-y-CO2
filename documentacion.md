@@ -1,20 +1,4 @@
-<p align="center">
-<img src="https://img2.rtve.es/v/5427304?w=1600&preview=1572458814211.jpg"  height=300>
-</p>
-
-<p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0tDeyl_btA4FmOeSNlwXjNC9EAMT2wmhDw&usqp=CAU"  height=300>
-</p>
-
-
-https://th.bing.com/th/id/OIP.vZQDjJWqRD_yQeN48VpkpgHaE7?w=250&h=180&c=7&r=0&o=5&pid=1.7
-
 ![Alt text](image.png)
-
-
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY0tDeyl_btA4FmOeSNlwXjNC9EAMT2wmhDw&usqp=CAU
-
-
 
 # INGENIERIA DE CARACTERISTICAS (FEATURE ENGINEERING)
 
