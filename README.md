@@ -69,9 +69,9 @@ Este KPI mide la cantidad de ruido que producen los vehículos eléctricos en ci
 % ruido = (Ruido de los vehículos eléctricos / Ruido total) * 100
 
 3. Conocer el comportamiento del valor de los viajes por kilómetro comparando cada uno de los distritos.
-KPI: Comparar el promedio del costo de viajes que paga el usuario de los diferentes distritos por kilómetro permitiendo conocer el mas rentable.
+KPI: Comparar el promedio del costo de viajes que paga el usuario de los diferentes distritos por kilómetro permitiendo conocer el más rentable.
 Este KPI se calcula promediando el valor de los viajes por kilometro en cada distrito y su cambio porcentual.
-Ingresos totales / Kilometros recorridos
+Ingresos totales / Kilometros recorridos.
 
 4. Conocer el comportamiento de los viajes en taxi en la ciudad de Nueva York.
 KPI: Identificar la variación de la cantidad de viajes realizados en el año a comparación del anterior. 
