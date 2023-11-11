@@ -55,26 +55,26 @@ Desarrollar un modelo de gestión eficiente para la empresa TRANSFAST, centránd
 
 ## INDICADORES DE RENDIMIENTO KPI'S
 
-1. Obtener la relación entre los niveles de emisión de gases nocivos en el aire y la circulación de vehículos en la ciudad de Nueva York, durante el período de 2022 a 2023.
-KPI: Porcentaje de reducción DEL 5% de las emisiones de gases nocivos por distrito respecto al año anterior.
-Este KPI mide la cantidad de emisiones de gases nocivos que se reducen por cada unidad de circulación de vehículos. Este KPI es útil para evaluar el impacto de las medidas que se tomen para reducir las emisiones de gases nocivos.
+1. Obtener la relación entre los niveles de emisión de gases nocivos en el aire y la CONTAMINACIÓN POR DISTRITO en la ciudad de Nueva York, durante el período de 2022 a 2023.
+KPI: Porcentaje de reducción DEL 5% de las emisiones de gases nocivos por DISTRITO CON RESPECTO AL AÑO ANTERIOR
+Este KPI mide la cantidad de emisiones de gases nocivos que se reducen por cada DISTRITO. Este KPI es útil para evaluar el impacto de las medidas que se tomen para reducir las emisiones de gases nocivos.
 
 % reducción = (Emisiones iniciales - Emisiones finales) / Emisiones iniciales * 100
 
-2. Determinar la participación del ruido en decibeles de los vehículos eléctricos en circulación en la ciudad de Nueva York, durante el período de 2022 a 2023, respecto a los decibeles permitidos.
-KPI: Reducir un 5% el ruido de motores en la ciudad de Nueva York.
+2. Determinar la participación del ruido en decibeles de los vehículos eléctricos en circulación en la ciudad de Nueva York, durante el período de 2022 a 2023, respecto a los decibeles de vehículos convencionales
+KPI: reducir un 5% el ruido de motores en la ciudad de nueva york
 
 Este KPI mide la cantidad de ruido que producen los vehículos eléctricos en circulación, en comparación con el ruido total producido por todos los vehículos en circulación. Este KPI es útil para evaluar el impacto de los vehículos eléctricos en la contaminación acústica.
 
 % ruido = (Ruido de los vehículos eléctricos / Ruido total) * 100
 
-3. Conocer el comportamiento del valor de los viajes por kilómetro comparando cada uno de los distritos.
-KPI: Comparar el promedio del costo de viajes que paga el usuario de los diferentes distritos por kilómetro permitiendo conocer el más rentable.
-Este KPI se calcula promediando el valor de los viajes por kilometro en cada distrito y su cambio porcentual.
-Ingresos totales / Kilometros recorridos.
+3. Conocer el comportamiento del valor de los viajes por milla comparando cada uno de los distritos. 
+KPI: Comparar el promedio del costo de viajes que paga el usuario de los diferentes distritos por milla permitiendo conocer el más rentable.
+Este KPI se calcula promediando el valor de los viajes por milla en cada distrito y su cambio porcentual.
+Ingresos totales / millas recorridas.
 
 4. Conocer el comportamiento de los viajes en taxi en la ciudad de Nueva York.
-KPI: Identificar la variación de la cantidad de viajes realizados en el año a comparación del anterior. 
+KPI: Identificar la variación de la cantidad de viajes realizados en el año a comparación del anterior.
 Este KPI se calcula restando el total de viajes del año actual menos el anterior divido entre la cantidad de viajes del año anterior.
 
 KPI = (total de viajes del año actual - total de viajes año anterior) / total de viajes año anterior * 100
