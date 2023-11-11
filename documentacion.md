@@ -6,7 +6,7 @@ Hace referencia al proceso de selección, transformación y creación de variabl
 
 ## SELECCION DE CARACTERISTICAS
 
-Basados en los objetivos del proyecto se escogieron aquellos conjuntos de datos que entregaron información clave para cumplirlos
+Basados en los objetivos del proyecto se escogieron aquellos conjuntos de datos que entregaron información clave para cumplirlos.
 
 ## TRANSFORMACION DE CARACTERISTICAS
 
