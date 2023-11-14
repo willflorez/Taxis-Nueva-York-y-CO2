@@ -51,7 +51,7 @@ Desarrollar un modelo de gestión eficiente para la empresa TRANSFAST, centránd
 1. Identificar los distritos más contaminados, en términos de calidad de aire y exceso de ruido.
 2. Definir la rentabilidad del negocio de transporte de pasajeros en automóviles por distritos.
 3. Entregar una propuesta de inversión a TransFast que ayude a tomar la decisión de participar o no en el mercado.
-4. Crear un modelo de machine learning que entregue al usuario, según un punto de partida y de destino y una hora de viaje, la predicción del costo del servicio.
+4. Crear un modelo de machine learning que entregue al inversionista, la predicción del costo de un viaje, ingresando las millas o recorrido estimado del mismo.
 
 ## INDICADORES DE RENDIMIENTO KPI'S
 
